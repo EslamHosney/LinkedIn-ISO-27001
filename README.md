@@ -4,3 +4,8 @@ ISO 27001:2022-Compliant Cybersecurity: Getting Started
 - <figure> <img src='./images/4 Categories of Controls.jpg' alt='missing'  width="600" title="4 Categories of Controls"> </figure>
 Nonconformities
 Years, 2 and 3 you only need 3rd party surveillance reviews 
+## Caluse 4
+Clause 4.1 – Understanding the Organization and Its Context
+Clause 4.2 – Understanding the Needs and Expectations of Interested Parties
+Clause 4.3 – Determining the Scope of the ISMS
+Clause 4.4 – Information Security Management System
