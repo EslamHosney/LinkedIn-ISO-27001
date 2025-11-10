@@ -11,6 +11,5 @@ Years, 2 and 3 you only need 3rd party surveillance reviews
 - Clause 4.4 – Information Security Management System
 ## Caluse 5
 - Clause 5.1 Leadership and Commitment 
-- Clause 5.2 Policy
--- Create IS Policy and show it's communicated and available to the organization.
-- Clause 5.3 Organizational Roles, Responsibilities, and Authorities
+- Clause 5.2 Policy -- Create IS Policy and show it's communicated and available to the organization and interested parties.
+- Clause 5.3 Organizational Roles, Responsibilities, and Authorities -- Build R&Rs matrix -- show the responsibility for ISO 27001 compliance is assigned to a person or group.-- communicate organizational R&Rs
