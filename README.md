@@ -46,8 +46,45 @@ Years, 2 and 3 you only need 3rd party surveillance reviews
 - 8.3 Information Security Risk Treatment
   - Implement risk treatment plan.
   - Document the results of risk treatment.
-
-
-
-
+## Clause 9
+- 9.1 Monitoring, Measurement, Analysis and Evanluation
+  - What needs to be measured?
+  - Which methods will be used?
+  - When the measuring will be performed?
+  - Who will do the measuring and monitoring?
+  - Who will do the anlysis and evaluation of the results?
+- How to demonstrate compliance?
+  - Document how the organization does the Monitoring, Measurement, Analysis and Evanluation related to it ISMS
+  - Document how the organization used the results to improve ISMS
+- 9.2 Internal Audit
+  - Plan, establish,  implement and maintain an audit program
+  - Define the audit criteria
+  - Select auditors and conduct audits that are objective and impartial
+  - Report the results of audits to relevant management and retain documents of the audit results.
+- Audit program required specifications
+  - How frequently audits are conducted
+  - Methods used to condut audits
+  - Responsibilties related to audits
+  - Audit planning requirements.
+  - Reporting requirements 
+  - Be Objective no self-audit are allowed
+- How to demonstrate compliance?
+  - Establish and implement an audit program
+  - Select impartial and objective aauditors
+  - Document your internal audit program.
+- 9.3 Management review
+  - Status of nonconformities and corrective actions.
+  - Results from the measurements of the effectiveness of security controls.
+  - Results of ISMS audits and reviews.
+  - Fulfillment of information security objectives.
+- How to demonstrate compliance?
+  - Schedule and conduct regular management reviews of the ISMS in acordance with the requirements of this clasue.
+  - Create documented evidence
+- 10.1 Nonconformity and corrective action
+  - Nonconformity failure to implement and maintain one or more ISMS requirements. Doubt that your ISMS can meet the information security policy and security objectives
+- 10.2 Continual Improvement
+- How to demonstrate compliance?
+  - Define and implement a method for addressing nonconformities.
+  - Document any found nonconformities.
+  - Document the corrective actions
 
