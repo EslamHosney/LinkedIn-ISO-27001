@@ -5,10 +5,10 @@ ISO 27001:2022-Compliant Cybersecurity: Getting Started
 Nonconformities
 Years, 2 and 3 you only need 3rd party surveillance reviews 
 ## Caluse 4
-- 4.1 – Understanding the Organization and Its Context
-- 4.2 – Understanding the Needs and Expectations of Interested Parties
-- 4.3 – Determining the Scope of the ISMS
-- 4.4 – Information Security Management System
+- 4.1 Understanding the Organization and Its Context
+- 4.2 Understanding the Needs and Expectations of Interested Parties
+- 4.3 Determining the Scope of the ISMS
+- 4.4 Information Security Management System
 ## Caluse 5
 - 5.1 Leadership and Commitment 
 - 5.2 Policy -- Create IS Policy and show it's communicated and available to the organization and interested parties.
@@ -57,7 +57,7 @@ Years, 2 and 3 you only need 3rd party surveillance reviews
   - Document how the organization does the Monitoring, Measurement, Analysis and Evanluation related to it ISMS
   - Document how the organization used the results to improve ISMS
 - 9.2 Internal Audit
-  - Plan, establish,  implement and maintain an audit program
+  - Plan, establish, implement and maintain an audit program
   - Define the audit criteria
   - Select auditors and conduct audits that are objective and impartial
   - Report the results of audits to relevant management and retain documents of the audit results.
